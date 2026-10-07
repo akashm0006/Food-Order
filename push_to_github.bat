@@ -5,7 +5,7 @@ echo ========================================================
 echo        PUSHING FOODHUB REPOSITORY TO GITHUB
 echo ========================================================
 echo.
-echo Target Repository: https://github.com/ansariaaug24it-tech/Food-Order-Management-System.git
+echo Target Repository: https://github.com/mohamed-sagid-bavas/Food-Order-Management-System.git
 echo Branch: main
 echo.
 git push origin main
